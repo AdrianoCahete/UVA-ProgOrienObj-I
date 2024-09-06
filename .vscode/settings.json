@@ -1,0 +1,6 @@
+{
+  "java.debug.logLevel": "verbose",
+  "java.eclipse.downloadSources": true,
+  "javascript.experimental.updateImportsOnPaste": true,
+  "java.implementationsCodeLens.enabled": true
+}

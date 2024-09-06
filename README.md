@@ -11,8 +11,8 @@ Obs: Não testei o script Unix, mas na teoria é isso ai.
 
 ### Compilando o programa
 
-`javac ava1/src/*.java`
+`javac -d ava1/bin ava1/src/*.java`
 
-### Rodanro o programa
+### Rodando o programa
 
-java ava1/src/Main.java
+`java -cp ava1/bin Main`
