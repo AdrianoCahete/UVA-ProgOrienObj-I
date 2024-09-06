@@ -9,4 +9,10 @@ Caso não tenha ou não queira fazer manualmente, tente rodar o `install.ps1` (c
 
 Obs: Não testei o script Unix, mas na teoria é isso ai.
 
-### Rodando o programa
+### Compilando o programa
+
+`javac ava1/src/*.java`
+
+### Rodanro o programa
+
+java ava1/src/Main.java
